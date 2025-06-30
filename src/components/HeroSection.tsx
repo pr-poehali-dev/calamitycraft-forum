@@ -65,9 +65,9 @@ const HeroSection = () => {
           </div>
           <div className="bg-white/10 backdrop-blur-sm rounded-lg p-4 border border-calamity-light-purple/30">
             <div className="text-2xl font-montserrat font-bold text-calamity-light-purple">
-              15+
+              PVP
             </div>
-            <div className="text-sm font-open-sans text-gray-300">Стран</div>
+            <div className="text-sm font-open-sans text-gray-300">Режим</div>
           </div>
           <div className="bg-white/10 backdrop-blur-sm rounded-lg p-4 border border-calamity-light-purple/30">
             <div className="text-2xl font-montserrat font-bold text-calamity-light-purple">
