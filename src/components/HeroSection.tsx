@@ -71,9 +71,9 @@ const HeroSection = () => {
           </div>
           <div className="bg-white/10 backdrop-blur-sm rounded-lg p-4 border border-calamity-light-purple/30">
             <div className="text-2xl font-montserrat font-bold text-calamity-light-purple">
-              1.20.1
+              1.21.4
             </div>
-            <div className="text-sm font-open-sans text-gray-300">Версия</div>
+            <div className="text-sm font-open-sans text-gray-300">NeoForge</div>
           </div>
         </div>
       </div>
