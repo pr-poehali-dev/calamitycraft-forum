@@ -24,9 +24,10 @@ export default {
     extend: {
       colors: {
         calamity: {
-          dark: "#1A1F2C",
-          purple: "#9b87f5",
-          "light-purple": "#D6BCFA",
+          dark: "#1a0b2e",
+          purple: "#4c1d95",
+          "light-purple": "#a855f7",
+          "dark-purple": "#581c87",
         },
         border: "hsl(var(--border))",
         input: "hsl(var(--input))",

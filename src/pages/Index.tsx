@@ -4,7 +4,7 @@ import Constitution from "@/components/Constitution";
 
 const Index = () => {
   return (
-    <div className="min-h-screen">
+    <div className="min-h-screen pt-16">
       <HeroSection />
       <Constitution />
       <SocialLinks />
